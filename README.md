@@ -47,6 +47,5 @@ CS1424 course project. An autonomous VEX V5 robot (Python) that navigates a cour
 2. Paste the contents of the file you want to run (start with `integration/integrated_robot.py`).
 3. Download to the V5 Brain and run.
 
-## Contributors
 
-- _Add names here_
+
